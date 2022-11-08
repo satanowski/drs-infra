@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1,Nowy Swiat
+https://n09a-eu.rcs.revma.com:443/ypqt40u0x1zuv
+
+#EXTINF:-1,Radio 357
+https://stream-eu-a.rcs.revma.com/ye5kghkgcm0uv
+
+#EXTINF:-1,Pinguin Classics
+https://streams.pinguinradio.com/PinguinClassics192.mp3
+
+#EXTINF:-1,Pinguin on The Rocks
+https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3
+
+#EXTINF:-1,ChillZet
+https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx
+
+#EXTINF:-1,RMFFM
+https://rs6-krk2-cyfronet.rmfstream.pl/RMFFM48
+
+#EXTINF:-1,ZET
+http://n-4-13.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
+
+#EXTINF:-1,TokFM
+http://poznan5-4.radio.pionier.net.pl:8000/tuba10-1.mp3
+
+#EXTINF:-1,BBC World
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup
+
+#EXTINF:-1,Eska Rock
+https://waw01-01.ic.smcdn.pl/t041-1.aac
+
+#EXTINF:-1,Trójka
+http://stream3.polskieradio.pl:8904/;
+
+#EXTINF:-1,AntyRadio
+https://n-6-9.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
+
+#EXTINF:-1,Rock Radio
+http://stream.radioagora.pl/tuba9004-1.mp3
+
